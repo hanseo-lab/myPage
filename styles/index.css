@@ -52,6 +52,12 @@ a:hover {
     align-items: center;
 }
 
+.logo-container {
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+}
+
 .logo {
     font-size: 1.8rem;
     font-weight: 700;
